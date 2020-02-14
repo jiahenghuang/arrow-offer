@@ -20,7 +20,6 @@ class Solution():
                 dummy.next=dummy.next.next
         return head_node
 
-
 if __name__=='__main__':
     node1 = Node(10)
     node2 = Node(11)
